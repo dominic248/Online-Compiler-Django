@@ -35,6 +35,7 @@ urlpatterns = [
     path("api/login/token/custom/", MyTokenObtainPairView.as_view()),
     # path('user/', include('users_app.urls')),
     path("api/users/", include("users_app.api.urls")),
+    path("api/compilers/", include("compilers_app.api.urls")),
 ]
 
 if not settings.AWS:
