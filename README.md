@@ -1,4 +1,4 @@
-# BE Project Backend
+# Online Compiler Django
 
 ## Setup auto-formatting with Git Hooks:
 ```
