@@ -1,4 +1,4 @@
-# Online Compiler Django
+# Online Compiler Django (API only)
 
 ## Setup auto-formatting with Git Hooks:
 ```
